@@ -120,5 +120,5 @@ Prometheus and Grafana used for monitoring application health and performance.
 
 **Pramesh** — Server Engineer | DevOps Enthusiast
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://linkedin.com/in/yourprofile)
-[![GitHub](https://img.shields.io/badge/GitHub-Follow-black)](https://github.com/yourusername)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://www.linkedin.com/in/pramesh-maurya-55823814a/)
+[![GitHub](https://img.shields.io/badge/GitHub-Follow-black)](https://github.com/pramesh-1994)
